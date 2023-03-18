@@ -1,0 +1,6 @@
+1. Asset Operations Page. (I4689).
+2. Change background colour when icon selected on left panel. (I4692).
+3. Add SMS implementation in admin portal. (I4694).
+4. Asset Insights Page. (I4666).
+5. Interlined Asset. (I4685).
+6. Asset History Page. (I4686).
